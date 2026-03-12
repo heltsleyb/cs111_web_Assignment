@@ -1,0 +1,29 @@
+body {
+	background-Color: Red;
+}
+
+/* Brayson | 3/11/2026 | This is the command to make the background Red */
+
+h1 {
+	font-family: Garamond
+}	
+
+/* Brayson | 3/11/26 |  this changes the font the for the H1 Header. */
+
+p { 
+   font-size: 18pt; 
+}
+ 
+ 
+ol {
+	list-style: upper-roman;
+}
+
+
+p { 
+color: white;
+}	
+ /* the CSS that I picked was chaning the style of the list to Roman Numerals. It change it from 1 and 2 to I and II. */
+ 
+ 
+ 
